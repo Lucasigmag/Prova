@@ -1,0 +1,26 @@
+p.blau{
+    color: blue;
+}
+
+span.roig{
+    color: red;
+}
+
+p.verd{
+    color: green;
+}
+span.pink{
+    color: pink;
+}
+
+span.euros{
+    font-style: oblique;
+}
+
+span.divertit{
+    font-weight: bold;
+}
+
+span.pequeño{
+    font-size: small;
+}
